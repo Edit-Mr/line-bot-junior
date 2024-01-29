@@ -113,6 +113,18 @@ var d = "ab"; //字串
 
 ---
 
+# + - * / %
+
+```javascript
+1 + 1; //2
+1 - 1; //0
+1 * 1; //1
+1 / 1; //1
+1 % 1; //0
+```
+
+---
+
 # alert()
 
 ```javascript
@@ -249,7 +261,40 @@ function 函數名稱(參數) {
 
 # 甚麼是 Google App Script?
 
+![w:200](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/800px-Google_Apps_Script.svg.png)
+
 Google App Script 是一個可以讓你在瀏覽器上執行 JavaScript 的平台。你可以在上面建立網頁、網頁應用程式、並控制你的表單、文件、試算表、圖表等等。
 
 ---
 
+# [程式碼](script.js)
+
+---
+
+
+![bg 50%](https://emtech.cc/images/gas.jpg)
+
+---
+
+
+# 設定 Webhook
+
+記得點擊 Use webhook
+
+![w:800](webhook.png)
+
+---
+
+![bg 30%](bruh.png)
+
+---
+
+# Line Official Account Manager
+
+<https://manager.line.biz/>
+
+---
+
+# 關閉自動回應
+
+![w:800](auto.png)
